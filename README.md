@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Clone Airbnb Backend" />
+  <img src="./_preview/Airbnb_Logo.jpg" alt="Clone Airbnb Backend" />
 
   &#xa0;
 
