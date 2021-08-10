@@ -50,11 +50,11 @@ Backend for clone Rbnb create with EXPRESS
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1\
+:heavy_check_mark: Feature 1;\
 Sign up
-:heavy_check_mark: Feature 2\
+:heavy_check_mark: Feature 2;\
 Sign in
-:heavy_check_mark: Feature 3
+:heavy_check_mark: Feature 3;
 
 ## :rocket: Technologies ##
 
